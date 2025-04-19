@@ -35,3 +35,6 @@ Mobilher is a proprietary platform and is not open-source. The use of the platfo
 ## Testing
 
 Mobilher is currently in a testing and adjustment phase. Women who wish to be part of this project can sign up through the "Participate" button on the website.
+
+
+Site made with Mobirise Website Builder v6.0.1, <https://mobirise.com>
